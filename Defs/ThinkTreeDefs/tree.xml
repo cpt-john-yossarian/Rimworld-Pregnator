@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <ThinkTreeDef>
+        <defName>Pregnator</defName>
+        <thinkRoot Class="ThinkNode_Priority">
+            <subNodes>
+                <!-- Despawned -->
+                <li Class="ThinkNode_Subtree">
+                    <treeDef>Despawned</treeDef>
+                </li>
+                <li Class="ThinkNode_ConditionalCanDoConstantThinkTreeJobNow">
+                    <subNodes>
+                        <!-- Flee enemies, tornados, meteorites, etc. -->
+                        <li Class="JobGiver_AnimalFlee" />
+
+                        <!-- Join auto joinable caravan -->
+                        <li Class="ThinkNode_Subtree">
+                            <treeDef>JoinAutoJoinableCaravan</treeDef>
+                        </li>
+                    </subNodes>
+                </li>
+
+                <li Class="Insect_Library.ThinkNode_IsInsect">
+                    <subNodes>
+                        <li Class="Insect_Library.JobGiver_Seed">
+                            <seedHediff>DNP_Pregnancy</seedHediff>
+                            <seekJob>Seek</seekJob>
+                        </li>
+                        <li Class="Insect_Library.JobGiver_FindVictimToHive">
+                            <buildPodJob>BuildPod</buildPodJob>
+                        </li>
+                    </subNodes>
+                </li>
+                
+                <li Class="ThinkNode_ConditionalCanDoLordJobNow">
+                    <subNodes>
+                        <!-- Lord directives -->
+                        <li Class="ThinkNode_Subtree">
+                            <treeDef>LordDutyConstant</treeDef>
+                        </li>
+                    </subNodes>
+                </li>
+            </subNodes>
+        </thinkRoot>
+    </ThinkTreeDef>
+
+</Defs>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <SoundDef>
+        <defName>DNP_PodGirl</defName>  
+        <sustain>True</sustain>  
+        <context>MapOnly</context>
+        <priorityMode>PrioritizeNearest</priorityMode>  
+        <subSounds>
+          <li>
+            <grains>
+              <li Class="AudioGrain_Clip">
+                <clipPath>Sustainer/pod</clipPath>
+              </li>
+            </grains>      
+            <volumeRange>1~6</volumeRange>
+            <muteWhenPaused>true</muteWhenPaused>
+            <distRange>10~38</distRange>
+          </li>
+        </subSounds>
+      </SoundDef>
+</Defs>

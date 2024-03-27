@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <JobDef>
+    <defName>BuildPod</defName>
+    <driverClass>Insect_Library.JobDriver_CarryVictimToHive</driverClass>
+    <reportString>captiving TargetA to breeding pod.</reportString>
+    <modExtensions>
+      <li Class="Insect_Library.ModExtension_PodJob">
+        <buildPodRadius>10</buildPodRadius>        <!-- 已巢穴为原点，在半径内寻找目标建筑Pod -->
+        <tickToBuildPod>500</tickToBuildPod>        <!-- 建筑时间 -->
+        <pod>DNP_Pod</pod>        <!-- Pod -->
+      </li>
+    </modExtensions>
+  </JobDef>
+
+  <JobDef>
+    <defName>Seek</defName>
+    <driverClass>Insect_Library.JobDriver_Seed</driverClass>
+    <reportString>breeding TargetA.</reportString>
+    <modExtensions>
+      <li Class="Insect_Library.ModExtension_PodJob">
+        <tickToSeed>5000</tickToSeed>        <!-- 播种时间 -->
+        <seedHediff>DNP_Pregnancy</seedHediff>
+      </li>
+    </modExtensions>
+  </JobDef>
+
+</Defs>

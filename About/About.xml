@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Pregnator</name>
+	<author>Aoba, HaiLuan</author>
+	<packageId>AOBA.Pregnator</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Test</description>
+</ModMetaData>

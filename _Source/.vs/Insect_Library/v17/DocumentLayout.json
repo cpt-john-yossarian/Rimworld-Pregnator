@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\insect_library\\hediff_seeded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|solutionrelative:insect_library\\hediff_seeded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\_pregnator\\insect_library\\insect_library\\insectpod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|solutionrelative:insect_library\\insectpod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\insect_library\\jobgiver_findvictimtohive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|solutionrelative:insect_library\\jobgiver_findvictimtohive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\_pregnator\\insect_library\\insect_library\\modextension_insectpod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|solutionrelative:insect_library\\modextension_insectpod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\insect_library\\thinknode_race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|solutionrelative:insect_library\\thinknode_race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\insect_library\\jobdriver_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|solutionrelative:insect_library\\jobdriver_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\insect_library\\jobdriver_carryvictimtohive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|solutionrelative:insect_library\\jobdriver_carryvictimtohive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\insect_library\\modextension_seeded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|solutionrelative:insect_library\\modextension_seeded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\insect_library\\modextension_podjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|solutionrelative:insect_library\\modextension_podjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\insect_library\\thinknode_isinsect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC9E12-642D-4A5D-857E-97F37BC4077F}|Insect_Library\\Insect_Library.csproj|solutionrelative:insect_library\\thinknode_isinsect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModExtension_InsectPod.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\ModExtension_InsectPod.cs",
+              "RelativeDocumentMoniker": "Insect_Library\\ModExtension_InsectPod.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\ModExtension_InsectPod.cs",
+              "RelativeToolTip": "Insect_Library\\ModExtension_InsectPod.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:32:39.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThinkNode_Race.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\ThinkNode_Race.cs",
+              "RelativeDocumentMoniker": "Insect_Library\\ThinkNode_Race.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\ThinkNode_Race.cs",
+              "RelativeToolTip": "Insect_Library\\ThinkNode_Race.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T03:33:12.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobDriver_Seed.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\JobDriver_Seed.cs",
+              "RelativeDocumentMoniker": "Insect_Library\\JobDriver_Seed.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\JobDriver_Seed.cs",
+              "RelativeToolTip": "Insect_Library\\JobDriver_Seed.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxAAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:25:49.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobGiver_FindVictimToHive.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\JobGiver_FindVictimToHive.cs",
+              "RelativeDocumentMoniker": "Insect_Library\\JobGiver_FindVictimToHive.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\JobGiver_FindVictimToHive.cs",
+              "RelativeToolTip": "Insect_Library\\JobGiver_FindVictimToHive.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:21:30.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThinkNode_IsInsect.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\ThinkNode_IsInsect.cs",
+              "RelativeDocumentMoniker": "Insect_Library\\ThinkNode_IsInsect.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\ThinkNode_IsInsect.cs",
+              "RelativeToolTip": "Insect_Library\\ThinkNode_IsInsect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:00:09.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModExtension_Seeded.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\ModExtension_Seeded.cs",
+              "RelativeDocumentMoniker": "Insect_Library\\ModExtension_Seeded.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\ModExtension_Seeded.cs",
+              "RelativeToolTip": "Insect_Library\\ModExtension_Seeded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:48:32.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsectPod.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\InsectPod.cs",
+              "RelativeDocumentMoniker": "Insect_Library\\InsectPod.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\InsectPod.cs",
+              "RelativeToolTip": "Insect_Library\\InsectPod.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAxwGYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:19:11.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModExtension_PodJob.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\ModExtension_PodJob.cs",
+              "RelativeDocumentMoniker": "Insect_Library\\ModExtension_PodJob.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\ModExtension_PodJob.cs",
+              "RelativeToolTip": "Insect_Library\\ModExtension_PodJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:05:15.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobDriver_CarryVictimToHive.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\JobDriver_CarryVictimToHive.cs",
+              "RelativeDocumentMoniker": "Insect_Library\\JobDriver_CarryVictimToHive.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\JobDriver_CarryVictimToHive.cs",
+              "RelativeToolTip": "Insect_Library\\JobDriver_CarryVictimToHive.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:05:07.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hediff_Seeded.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\Hediff_Seeded.cs",
+              "RelativeDocumentMoniker": "Insect_Library\\Hediff_Seeded.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\_Pregnator\\Insect_Library\\Insect_Library\\Hediff_Seeded.cs",
+              "RelativeToolTip": "Insect_Library\\Hediff_Seeded.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywCIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T07:29:30.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

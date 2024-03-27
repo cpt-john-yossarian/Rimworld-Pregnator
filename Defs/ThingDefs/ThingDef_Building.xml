@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ThingDef ParentName="BuildingBase">
+        <defName>DNP_Pod</defName>
+        <label>breeding pod</label>
+        <description>A</description>
+        <thingClass>Insect_Library.InsectPod</thingClass>
+        <graphicData>
+            <texPath>Pod/Pod</texPath>
+            <graphicClass>Graphic_Multi</graphicClass>
+            <shaderType>Cutout</shaderType>
+            <drawSize>(1.5,1.5)</drawSize>
+            <drawOffset>(0,0.5,0.1)</drawOffset>
+        </graphicData>
+        <drawerType>RealtimeOnly</drawerType>
+        <tickerType>Normal</tickerType>
+        <altitudeLayer>Building</altitudeLayer>
+        <rotatable>true</rotatable>
+        <socialPropernessMatters>true</socialPropernessMatters>
+        <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+        <statBases>
+            <MaxHitPoints>75</MaxHitPoints>
+            <Mass>3</Mass>
+            <Flammability>1.0</Flammability>
+        </statBases>
+        <containedPawnsSelectable>true</containedPawnsSelectable>
+        <building>
+            <soundAmbient>DNP_PodGirl</soundAmbient>
+            <claimable>false</claimable>
+            <deconstructible>false</deconstructible>
+        </building>
+        <pathCost>14</pathCost>
+        <killedLeavings>
+            <InsectJelly>30</InsectJelly>
+        </killedLeavings>
+        <comps>
+            <li Class="CompProperties_Glower">
+              <glowRadius>4</glowRadius>
+              <glowColor>(113,141,117,0)</glowColor>
+            </li>
+            <li Class="CompProperties_SpawnerFilth">
+                <filthDef>Filth_Slime</filthDef>
+                <spawnCountOnSpawn>10</spawnCountOnSpawn>
+                <spawnMtbHours>4</spawnMtbHours>
+                <spawnRadius>5</spawnRadius>
+            </li>
+            <li Class="CompProperties_Maintainable">
+                <ticksHealthy>72000</ticksHealthy>
+                <ticksNeedsMaintenance>60000</ticksNeedsMaintenance>
+                <damagePerTickRare>10</damagePerTickRare>
+            </li>
+        </comps>
+        <modExtensions>
+            <li Class="Insect_Library.ModExtension_InsectPod">
+                <BottomGraphic>
+                    <texPath>Pod_Bottom/pod_bottom</texPath>
+                    <graphicClass>Graphic_Multi</graphicClass>
+                    <shaderType>Cutout</shaderType>
+                    <drawOffset>(0,-0.5,0.1)</drawOffset>
+                    <drawSize>(1.5,1.5)</drawSize>
+                </BottomGraphic>
+                <innerPawnDrawOffset>(0,-0.1,0.15)</innerPawnDrawOffset>
+                <apparelDamageTick>100</apparelDamageTick>
+            </li>
+        </modExtensions>
+    </ThingDef>
+</Defs>

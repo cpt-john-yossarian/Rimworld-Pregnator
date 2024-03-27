@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ThoughtDef>
+        <defName>DNP_AlienPregnancy</defName>
+        <label>pregnancy(xeno)</label>
+        <workerClass>ThoughtWorker_Hediff</workerClass>
+        <hediff>DNP_Pregnancy</hediff>
+        <validWhileDespawned>true</validWhileDespawned>
+        <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+        <stages>
+          <li>
+            <label>feel something worng</label>
+            <description>They implanted something inside me!</description>
+            <baseMoodEffect>-6</baseMoodEffect>
+          </li>
+          <li>
+            <label>strange vomitting</label>
+            <description>My belly... i feel unconfortable.</description>
+            <baseMoodEffect>-12</baseMoodEffect>
+          </li>
+          <li>
+            <label>terrible feeling</label>
+            <description>There must be something! and its growing in my body!</description>
+            <baseMoodEffect>-20</baseMoodEffect>
+          </li>
+          <li>
+            <label>xeno pregnancy</label>
+            <description>My body is bearing something!. Am I going to die?</description>
+            <baseMoodEffect>-26</baseMoodEffect>
+          </li>
+          <li>
+            <label>xeno growth</label>
+            <description>its moving in my body! my belly swelled like never before.</description>
+            <baseMoodEffect>-32</baseMoodEffect>
+          </li>
+          <li>
+            <label>matured xeno in body</label>
+            <description>help...my belly....they are kicking inside already!</description>
+            <baseMoodEffect>-38</baseMoodEffect>
+          </li>
+          <li>
+            <label>giving birth</label>
+            <description>please...help me....take....it.away...</description>
+            <baseMoodEffect>-44</baseMoodEffect>
+          </li>
+        </stages>
+      </ThoughtDef>
+</Defs>
