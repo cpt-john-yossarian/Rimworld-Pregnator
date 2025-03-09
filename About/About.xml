@@ -2,6 +2,7 @@
 <ModMetaData>
 	<name>Pregnator</name>
 	<author>Aoba, HaiLuan</author>
+  <url>https://github.com/cpt-john-yossarian/Rimworld-Pregnator.git</url>
 	<packageId>AOBA.Pregnator</packageId>
 	<supportedVersions>
 		<li>1.5</li>
