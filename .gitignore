@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Pregnator
+/_Source/.vs/Insect_Library/CopilotIndices/17.12.68.61481
+/_Source/.vs/Insect_Library/FileContentIndex/0670133b-7713-4e34-bd6e-2abcdf3c3f22.vsidx
+/_Source/.vs/Insect_Library/FileContentIndex/4168c387-0619-4dff-bf6c-fca759a3003e.vsidx
+/_Source/.vs/Insect_Library/FileContentIndex/bbde28b4-1fa0-4673-9e1d-47f6c30bfe27.vsidx
+/_Source/.vs/Insect_Library/FileContentIndex/cfa933b8-8286-4483-bc87-258ef44b3f46.vsidx
+/_Source/.vs/Insect_Library/FileContentIndex/d5ecfe83-1ef2-44e4-90a0-48a367c7d713.vsidx
+*.vsidx
+/_Source/.vs/Insect_Library/FileContentIndex/f50d7b94-4ca7-4ed8-a74b-3fd46d6285f1.vsidx
